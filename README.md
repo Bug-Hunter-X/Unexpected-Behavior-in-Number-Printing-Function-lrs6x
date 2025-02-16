@@ -1,0 +1,1 @@
+This repository contains a TypeScript function that prints numbers from 1 to n.  However, it has an unexpected behavior when n is 0. The function does not handle this edge case and produces no output. A solution is provided to improve the function's robustness.
